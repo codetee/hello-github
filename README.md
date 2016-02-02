@@ -2,6 +2,6 @@
 
 Moikka,
 
-Jostain on aloitettava...
+Jostain on aloitettava... yritys/erehdys = oppiminen
 
 -codetee
