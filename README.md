@@ -1,2 +1,7 @@
 # hello-github
-Eka kerta
+
+Moikka,
+
+Jostain on aloitettava...
+
+-codetee
